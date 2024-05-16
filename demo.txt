@@ -1,0 +1,11 @@
+HI {FName},
+
+Welcome to my world! Your registration is almost completed. Please use the below details to unlock your account:
+
+Temporary Password: {temp_pwd}
+
+To unlock your account, click the following link: 
+<a href='http://localhost:8080/unlockaccount?email={email}'>Click here to unlock your account</a>
+
+Thanks & Regards,
+Prasad
