@@ -10,5 +10,10 @@ public class SecondMiniProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SecondMiniProjectApplication.class, args);
 	}
+  
+         void newupdate()
+{
+System.out.println();
+}
 
 }
