@@ -70,5 +70,10 @@ public class UserRestController {
 	{
 		return registrationService.geterror();
 	}
+
+	@GetMapping("/welcome")
+	public String welcomeMessage()
+	{
+		return "welcome to my spring boot application";
 	
 }
