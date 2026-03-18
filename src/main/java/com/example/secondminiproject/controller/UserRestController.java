@@ -75,5 +75,6 @@ public class UserRestController {
 	public String welcomeMessage()
 	{
 		return "welcome to my spring boot application";
+	}
 	
 }
